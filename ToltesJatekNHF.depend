@@ -1,0 +1,332 @@
+# depslib dependency file v1.0
+1508864653 source:e:\users\agilitis\documents\c programok\toltesjateknhf\main.c
+	<stdio.h>
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_platform.h
+
+1341006780 e:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 e:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1341006776 e:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006776 e:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006774 e:\program files (x86)\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341006774 e:\program files (x86)\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341006776 e:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 e:\program files (x86)\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341006772 e:\program files (x86)\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341006776 e:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006770 e:\program files (x86)\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\begin_code.h
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\close_code.h
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341006774 e:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_keysym.h
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595005 e:\program files (x86)\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_gfxprimitives.h
+	<math.h>
+	"SDL.h"
+
+1341006774 e:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1508875182 source:e:\users\agilitis\documents\c programok\toltesjateknhf\graphics.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdbool.h>
+
+1508865283 source:e:\users\agilitis\documents\c programok\toltesjateknhf\constants.c
+	<stdio.h>
+
+1510938013 source:e:\users\agilitis\documents\programok\toltesjateknhf\constants.c
+	<stdio.h>
+
+1512218637 source:e:\users\agilitis\documents\programok\toltesjateknhf\graphics.c
+	<SDL.h>
+	<SDL_gfxPrimitives.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+	"playerHandler.h"
+	"mapHandler.h"
+	<math.h>
+	<SDL_image.h>
+	"helperMethods.h"
+	"constants.h"
+	"graphics.h"
+
+1512551620 source:e:\users\agilitis\documents\programok\toltesjateknhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"graphics.h"
+	"constants.h"
+	"playerHandler.h"
+	"helperMethods.h"
+	"mapHandler.h"
+	"debugmalloc.h"
+
+1511793229 e:\users\agilitis\documents\programok\toltesjateknhf\graphics.h
+
+1511699594 e:\users\agilitis\documents\programok\toltesjateknhf\constants.h
+
+1512210440 e:\users\agilitis\documents\programok\toltesjateknhf\playerhandler.h
+	<stdbool.h>
+
+1512218612 source:e:\users\agilitis\documents\programok\toltesjateknhf\playerhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"playerHandler.h"
+
+1511601562 source:e:\users\agilitis\documents\programok\toltesjateknhf\helpermethods.c
+	<stdbool.h>
+	<stdio.h>
+
+1511699645 e:\users\agilitis\documents\programok\toltesjateknhf\helpermethods.h
+
+1511793259 e:\users\agilitis\documents\programok\toltesjateknhf\maphandler.h
+
+1512218682 source:e:\users\agilitis\documents\programok\toltesjateknhf\maphandler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"mapHandler.h"
+
+1509869213 e:\users\agilitis\documents\programok\toltesjateknhf\userevents.h
+
+1509869460 source:e:\users\agilitis\documents\programok\toltesjateknhf\userevents.c
+
+1511691388 source:e:\users\agilitis\documents\programok\toltesjateknhf\debugmalloc.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"debugmalloc.h"
+
+1341006776 e:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1511691388 e:\users\agilitis\documents\programok\toltesjateknhf\debugmalloc.h
+	<stdlib.h>
+	<stdbool.h>
+
+1508595004 e:\program files (x86)\codeblocks\mingw\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
